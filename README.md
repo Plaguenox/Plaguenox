@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Alexis
 
-<!--
-**Plaguenox/Plaguenox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](./images/banner.png)
 
-Here are some ideas to get you started:
+### Sobre Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un Universitario de Ingenieria en Sistemas apasionado por la tecnología y la innovación. Me encanta aprender y explorar nuevas herramientas y tecnologías. Actualmente, estoy enfocado en el desarrollo web, y siempre estoy buscando nuevos desafíos.
+
+- 🔭 Actualmente trabajando en: [mascotopia]
+- 🌱 Aprendiendo: [Laravel]
+- 👯 Buscando colaborar en: [Desarrollo Web]
+- 📫 Cómo contactarme: [alexisbmv99@gmail,com]
+
+### Tecnologías y Herramientas
+
+![Tecnologías y Herramientas](./images/tech-stack.png)
+
+- **Lenguajes de Programación**: JavaScript, Python, Java
+- **Frameworks y Librerías**: React, Node.js, Express
+- **Bases de Datos**: MySQL, PostgreSQL
+- **Herramientas**: Git
+
+### Proyectos Destacados
+
+1. **[mascotopia]**
+   - Descripción: Actualmente me encuentro migrando a React.
+   - Tecnologías Utilizadas: [Figma, Html, Css, JavaScript]
+   - Repositorio: [[Enlace al Repositorio](https://github.com/Plaguenox/mascotopia)]
+
+2. **[Proyecto realizado en Diseño Web 2]**
+   - Descripción: Un intento de hacer una agenda con sistemas de programacion recomendado.
+   - Tecnologías Utilizadas: [Figma, Html, Css, JavaScript]
+   - Repositorio: [[Enlace al Repositorio](https://github.com/Plaguenox/ProyectoDW2.github.io)]
+
+### Portafolio
+
+En trabajo
+
+### Contacto
+
+Puedes encontrarme en:
+
+- [Email](alexisbmv99@gmail.com)
+
+---
+
+¡Gracias por visitar mi perfil! 😄
