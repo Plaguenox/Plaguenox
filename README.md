@@ -4,7 +4,7 @@
 
 ### Sobre Mí
 
-Soy un Universitario de Ingenieria en Sistemas apasionado por la tecnología y la innovación. Me encanta aprender y explorar nuevas herramientas y tecnologías. Actualmente, estoy enfocado en el desarrollo web, y siempre estoy buscando nuevos desafíos.
+Actualmente Estudio Ingenieria en Sistemas, apasionado por la tecnología y la innovación. Me encanta aprender y explorar nuevas herramientas y tecnologías. Actualmente, estoy enfocado en el desarrollo web, y siempre estoy buscando nuevos desafíos.
 
 - 🔭 Actualmente trabajando en: [mascotopia]
 - 🌱 Aprendiendo: [Laravel]
